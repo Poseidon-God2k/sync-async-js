@@ -8,11 +8,11 @@
 // |  First |   and execute 
 // |________|
 // Call Stack
-first = () => {
-    console.log("First")
-}
+// first = () => {
+//     console.log("First")
+// }
 
-first();
+// first();
 
 // |        |
 // |        |
@@ -24,8 +24,11 @@ first();
 // |________|
 // Call Stack
 
-console.log('Final')
+// console.log('Final')
 
 // Output
 // First
 // Final
+
+
+// Example 2
