@@ -4,4 +4,5 @@
   <li>Event Loop (Call Stack)</li>
   <li>Callbacks</li>
   <li>Promise</li>
+  <li>Async/await</li>
 </ul>
